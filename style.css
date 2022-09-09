@@ -10,3 +10,19 @@
 .cztery{
     color: blue;
 }
+.tytul{
+  background-color: chartreuse;  
+  color: white;
+}
+.podtytul{
+    background-color: cornflowerblue;
+    color: white;
+}
+.tekst{
+    background-color: darkkhaki;
+    color: white;
+}
+.text{
+    background-color: darkgreen;
+    color: white;
+}
